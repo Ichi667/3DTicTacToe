@@ -1,0 +1,9 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="TicTacToe3D.MenuController">
+			<method name="QuitGame"/>
+			<method name="Start2Players"/>
+			<method name="StartVsAI"/>
+		</type>
+	</assembly>
+</linker>
